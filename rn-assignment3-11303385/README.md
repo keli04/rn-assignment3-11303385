@@ -1,4 +1,4 @@
-# rn-assignment3-ID-11303385
+# rn-assignment3-11303385
 
 Description:
 
